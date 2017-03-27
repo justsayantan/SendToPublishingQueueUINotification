@@ -1,0 +1,12 @@
+D:\Custom Project\SentToPublish\SentToPublishEventHandler\bin\Debug\Tridion.Common.dll
+D:\Custom Project\SentToPublish\SentToPublishEventHandler\bin\Debug\Tridion.ContentManager.Common.dll
+D:\Custom Project\SentToPublish\SentToPublishEventHandler\bin\Debug\Tridion.ContentManager.dll
+D:\Custom Project\SentToPublish\SentToPublishEventHandler\bin\Debug\Tridion.ContentManager.Publishing.dll
+D:\Custom Project\SentToPublish\SentToPublishEventHandler\bin\Debug\Tridion.Logging.dll
+D:\Custom Project\SentToPublish\SentToPublishEventHandler\bin\Debug\Tridion.Logging.xml
+D:\Custom Project\SentToPublish\SentToPublishEventHandler\obj\Debug\SentToPublishEventHandler.csprojResolveAssemblyReference.cache
+D:\Custom Project\SentToPublish\SentToPublishEventHandler\bin\Debug\Newtonsoft.Json.dll
+D:\Custom Project\SentToPublish\SentToPublishEventHandler\bin\Debug\SentToPublishNotification.EventHandler.dll
+D:\Custom Project\SentToPublish\SentToPublishEventHandler\bin\Debug\SentToPublishNotification.EventHandler.pdb
+D:\Custom Project\SentToPublish\SentToPublishEventHandler\obj\Debug\SentToPublishNotification.EventHandler.dll
+D:\Custom Project\SentToPublish\SentToPublishEventHandler\obj\Debug\SentToPublishNotification.EventHandler.pdb

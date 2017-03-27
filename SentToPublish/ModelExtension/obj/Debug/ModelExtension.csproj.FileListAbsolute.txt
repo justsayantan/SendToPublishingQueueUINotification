@@ -1,0 +1,5 @@
+D:\Custom Project\SentToPublish\ModelExtension\obj\Debug\ModelExtension.csprojResolveAssemblyReference.cache
+D:\Custom Project\SentToPublish\ModelExtension\bin\Debug\SentToPublishNotification.ModelExtension.dll
+D:\Custom Project\SentToPublish\ModelExtension\bin\Debug\SentToPublishNotification.ModelExtension.pdb
+D:\Custom Project\SentToPublish\ModelExtension\obj\Debug\SentToPublishNotification.ModelExtension.dll
+D:\Custom Project\SentToPublish\ModelExtension\obj\Debug\SentToPublishNotification.ModelExtension.pdb
